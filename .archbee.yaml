@@ -4,8 +4,15 @@ structure:
   assets: assets
 footerTemplate: ""
 headerIncludes: ""
+customCSS: ""
+publishSpace: false
 sites:
   - docsPath: nested/nested/docs/md
     structure:
       summary: toc2.md
       assets: files
+    footerTemplate: ""
+    headerIncludes: ""
+    customCSS: ""
+    customJS: ""
+    publishSpace: false
