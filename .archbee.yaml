@@ -4,3 +4,6 @@ structure:
   assets: assets
 footerTemplate: ""
 headerIncludes: ""
+sites:
+  - docsPath: nested/nested/docs/md
+    summary: toc2.md
