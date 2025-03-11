@@ -30,14 +30,14 @@
 
 ## MDX Directives in page
 
-- [links](directives/links.mdx)
-- [emoji](directives/emoji.mdx)
-- [hints](directives/hints.mdx)
-- [link-arrays](directives/link-arrays.mdx)
-- [tabs](directives/tabs.mdx)
-- [code-editor-tabs](directives/code-editor-tabs.mdx)
-- [code-drawers](directives/code-drawer.mdx)
-- [embeds](directives/embeds.mdx)
-- [changelogs](directives/changelog.mdx)
-- [partial](directives/partial.mdx)
+- [links](mdx-directives/links.mdx)
+- [emoji](mdx-directives/emoji.mdx)
+- [hints](mdx-directives/hints.mdx)
+- [link-arrays](mdx-directives/link-arrays.mdx)
+- [tabs](mdx-directives/tabs.mdx)
+- [code-editor-tabs](mdx-directives/code-editor-tabs.mdx)
+- [code-drawers](mdx-directives/code-drawer.mdx)
+- [embeds](mdx-directives/embeds.mdx)
+- [changelogs](mdx-directives/changelog.mdx)
+- [partial](mdx-directives/partial.mdx)
 
