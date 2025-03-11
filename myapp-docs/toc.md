@@ -28,3 +28,16 @@
 - [changelogs](directives/changelog.md)
 - [partial](directives/partial.md)
 
+## MDX Directives in page
+
+- [links](directives/links.mdx)
+- [emoji](directives/emoji.mdx)
+- [hints](directives/hints.mdx)
+- [link-arrays](directives/link-arrays.mdx)
+- [tabs](directives/tabs.mdx)
+- [code-editor-tabs](directives/code-editor-tabs.mdx)
+- [code-drawers](directives/code-drawer.mdx)
+- [embeds](directives/embeds.mdx)
+- [changelogs](directives/changelog.mdx)
+- [partial](directives/partial.mdx)
+
